@@ -1,6 +1,6 @@
 RUN AT RDP/VPS 
-```pip3 install -r requirements.txt```
-```python3 start.py bypass https://example.com 5 1000 socks5.txt 100 100```
+# ```pip3 install -r requirements.txt```
+# ```python3 start.py bypass https://example.com 5 1000 socks5.txt 100 100```
 
 <p align="center"><img src="./screenshot/logo.ico" width="150px" height="150px" alt="aventium softworks"></p>
 
