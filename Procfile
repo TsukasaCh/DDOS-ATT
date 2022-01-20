@@ -1,1 +1,1 @@
- worker: python3 start.py GET https://adiofficial-api.herokuapp.com 1 10000 proxy.txt 1000 360
+ worker: python3 start.py GET https://sokrates.id/galleries 1 10000 proxy.txt 1000 360
