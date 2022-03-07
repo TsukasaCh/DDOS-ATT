@@ -1,1 +1,1 @@
-python3 start.py GET http://sman1kotatangsel.com 1 10000 proxy.txt 1000 360
+python3 start.py GET https://api-helgazex.herokuapp.com 1 10000 proxy.txt 1000 360
